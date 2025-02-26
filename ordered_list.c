@@ -194,7 +194,3 @@ t_ordered_list* merge(t_ordered_list* list1, t_ordered_list* list2){
 
     return merged_list;
 }
-
-int main(){
-    return 0;
-}
