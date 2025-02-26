@@ -2,6 +2,9 @@
 #include <stdlib.h>
 #include "ordered_list.h"
 
+//Eduardo Ferraz
+//Pedro Belini
+
 // 1) Indique o(s) ponto(s) forte(s) e fraco(s) de uma lista ordenada, justificando-os.
 
 // Pontos Fortes
