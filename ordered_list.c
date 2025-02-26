@@ -196,13 +196,5 @@ t_ordered_list* merge(t_ordered_list* list1, t_ordered_list* list2){
 }
 
 int main(){
-    t_ordered_list *myList = create_ordered_list(100);
-
-    printf("%d\n",is_empty(myList));
-    for(int i=0;i<101;i++){
-        insert(myList,i);
-    }
-    printf("%d\n",is_empty(myList));
-
     return 0;
 }
